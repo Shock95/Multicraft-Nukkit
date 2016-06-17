@@ -1,7 +1,7 @@
 # Multicraft-Nukkit
 
 - You can run Nukkit on your Multicraft server with this provided Multicraft configuration.
-- [Click here](https://raw.githubusercontent.com/downloads/XShockinFireX/Multicraft-Nukkit/nukkit.jar.conf) to download the Multicraft configuration for Nukkit.
+- [Click here](https://github.com/XShockinFireX/Multicraft-Nukkit/releases/download/v1.0.0/nukkit.jar.conf) to download the Multicraft configuration for Nukkit.
 - [Click here](http://ci.mengcraft.com:8080/job/nukkit/) to download the latest Nukkit.jar file.
 
 ### Installing Nukkit on your Multicraft Server:
